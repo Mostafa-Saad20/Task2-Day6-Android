@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="user_id">User ID</string>
+    <string name="id">ID</string>
+    <string name="title">Title</string>
+    <string name="body">Body</string>
+    <string name="userid_data">userID_Data</string>
+    <string name="id_data">ID_DATA</string>
+    <string name="title_data">TITLE_DATA</string>
+    <string name="body_data">BODY_DATA</string>
+</resources>
